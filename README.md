@@ -46,18 +46,19 @@ For a full map of the vault, start at 00_BRIDGE/00_BRIDGE.md.
 
 ## Core ideas (short)
 
-Operator — a named cognitive move ([ZIP], [SKERN], [GRAFT], …)
-Glider — a modular assembly in {...}
-Spore — a glider intentionally sent outward to sprout elsewhere
-Honey — distillate kept inside the system (4_HONEY/)
-Nagwa — local field of modulation (environment + prism + membrane)
-Swarm — 14 rods on an azimuth rose + FUNGY (mycelial SYS, no azimuth)
+1. Operator — a named cognitive move ([ZIP], [SKERN], [GRAFT], …)
+2. Glider — a modular assembly in {...}
+3. Spore — a glider intentionally sent outward to sprout elsewhere
+4. Honey — distillate kept inside the system (4_HONEY/)
+5. Nagwa — local field of modulation (environment + prism + membrane)
+6. Swarm — 14 rods on an azimuth rose + FUNGY (mycelial SYS, no azimuth)
 
 ---
 
 ##Visual assets
 
 Diagrams and symbols may live outside this repository.
+
 If /attachments only contains an index, media files are distributed separately.
 
 ---
@@ -71,4 +72,5 @@ MIT — see LICENSE [blocked].
 ## Note
 
 Slarket is a cognitive-semantic toolkit, not a scientific or religious dogma.
+
 Use what works; leave what does not.
